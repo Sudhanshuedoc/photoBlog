@@ -1,0 +1,18 @@
+img{
+  width:30%;
+  float: left;
+  margin: 1.66%;
+}
+p{
+font-family: 'Yellowtail', cursive;
+margin-left: 1.66%;
+font-weight: 800;
+font-size: 40px;
+border-bottom: 2px solid black;
+width:30%;
+padding-bottom: 20px;
+/* text-transform: uppercase; */
+}
+a:hover{
+  color:green;
+}
